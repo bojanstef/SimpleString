@@ -51,7 +51,7 @@ getExampleReverse[-1] // "t"
 
 Set Example
 ```Swift
-let setExample = "We can also modify valuez"
+var setExample = "We can also modify valuez"
 setExample[-1] = "s" // "We can also modify values"
 ```
 
