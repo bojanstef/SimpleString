@@ -7,8 +7,8 @@ A Simple way to modify Strings in Swift (similar to python).
  - Includes error handling
 
 ## Table of Contents
- - [Examples of regular Swift String](https://github.com/bojanstef/SimpleString/README#L15)
- - [Examples of Simple Swift String](https://github.com/bojanstef/SimpleString/README#L39)
+ - [Examples of regular Swift String](https://github.com/bojanstef/SimpleString/blob/master/README.md#examples-of-regular-swift-string)
+ - [Examples of Simple Swift String](https://github.com/bojanstef/SimpleString/blob/master/README.md#examples-of-simple-swift-string)
 
 ---
 
